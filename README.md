@@ -1,6 +1,8 @@
 ![Zaldi Abdul Hadi](./image/github-header-image.png)
 
+<div align="center">
 <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxyeHV1ZTFiMXo0YWR1dHRsaG43ZzE3cm1mbTNla2hmcW15YXRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mTs11L9uuyGiI/giphy.gif"  />
+</div>
 
 🔭 I’m currently working on my personal project <br>
 🌱 I’m currently learning Machine Learning with a focus on Data Classification and Text Classification<br>
