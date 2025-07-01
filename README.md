@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Zaldi Abdul Hadi][img/github-header-image.png]
+![Zaldi Abdul Hadi](./image/github-header-image.png)
 
 - 💻 I’m currently working on my personal project
 - ✨ http://zaldiabdulhadi.my.id/
