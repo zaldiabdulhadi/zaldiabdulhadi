@@ -33,11 +33,3 @@
 ### Curently Listening
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5phw0qkxup79agfgdxyssoav3&count=2)<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ3M2g3ZHgyOGFwMzRpaWhubnRmZGs1amYzMTBmYXR1NDFxaDBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F6nQNPCJxbzMXhgRtn/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zaldiabdulhadi/zaldiabdulhadi/output/snake.svg" alt="Snake animation" />
-
-###
