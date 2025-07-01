@@ -1,7 +1,7 @@
 ![Zaldi Abdul Hadi](./image/github-header-image.png)
 
-🔭 I’m currently working on my personal project
-🌱 I’m currently learning Machine Learning with a focus on Data Classification and Text Classification
+🔭 I’m currently working on my personal project <br>
+🌱 I’m currently learning Machine Learning with a focus on Data Classification and Text Classification<br>
 💬 Ask me about anything related! Happy to chat on my DMs.
 
 ### Languages and tools
