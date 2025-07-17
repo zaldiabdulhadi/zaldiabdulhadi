@@ -5,9 +5,7 @@
 <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxyeHV1ZTFiMXo0YWR1dHRsaG43ZzE3cm1mbTNla2hmcW15YXRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mTs11L9uuyGiI/giphy.gif"  />
 
 <hr/>
-
-<div align="center">
-<h3>Languages and tools</h3>
+<br/>
 <div align="center">
     <img
     width="500px"
@@ -17,6 +15,9 @@
   />
 </div>
 <br/>
+
+<div align="center">
+<h3>Languages and tools</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaldiabdulhadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
